@@ -1,10 +1,10 @@
 # Heart-Attack-Prediction
 This is an AI based project.
 # import necessary Libraries
-#numpy 
+# numpy 
   pip install numpy
-#pandas
+# pandas
   pip install pandas
-#matplotlib.pyplot 
-#seaborn
+# matplotlib.pyplot 
+# seaborn
  --pip install seaborn
