@@ -7,4 +7,4 @@ This is an AI based project.
   pip install pandas
 # matplotlib.pyplot 
 # seaborn
- --pip install seaborn
+ pip install seaborn
